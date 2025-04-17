@@ -1,5 +1,20 @@
 {
     "schemaVersion": 1,
     "hotfixesFormat": null,
-    "versions": []
+    "versions": [
+        {
+            "id": "1.0.1",
+            "releasedAt": "2023-10-01T00:00:00Z",
+            "promotions": {
+                "downloads": {
+                    "Create: Northstar": "Downloadhttps://cdn.modrinth.com/data/XuHYu7cF/versions/VE7xSKd3/northstar-0.1cb-1.20.1.jar",
+                    "Create: Enchantment Industry": "https://cdn.modrinth.com/data/JWGBpFUP/versions/j4ZxxcbE/create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+                    "Create: Copycats+": "https://cdn.modrinth.com/data/UT2M39wf/versions/oeTB57Pr/copycats-2.2.2%2Bmc.1.20.1-forge.jar",
+                    "Antique Atlas 4": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/r8e868KR/antique-atlas-2.11.2%2B1.20.jar",
+                    "More Overlays Updated": "https://cdn.modrinth.com/data/Thy5Pqut/versions/xpC2kCRg/moreoverlays-1.22.7-mc1.20.2.jar",
+                    "More Mob Variants": "https://cdn.modrinth.com/data/JiEhJ3WG/versions/qtpseir7/moremobvariants-forge%2B1.20.1-1.3.0.1.jar"
+                }
+            }
+        }
+    ]
 }
