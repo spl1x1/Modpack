@@ -4,7 +4,8 @@
     "versions": [
         {
             "id": "1.0.1",
-            "releasedAt": "2023-10-01T00:00:00Z",
+            "releasedAt": 209384093820,
+            "releaseType": "stable",
             "promotions": {
                 "downloads": {
                     "Create: Northstar": "Downloadhttps://cdn.modrinth.com/data/XuHYu7cF/versions/VE7xSKd3/northstar-0.1cb-1.20.1.jar",
